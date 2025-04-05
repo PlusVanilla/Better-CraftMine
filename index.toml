@@ -23,3 +23,9 @@ file = "mods/nochatreports.jar"
 
 [[files]]
 file = "mods/player-relocks.jar"
+
+[[files]]
+file = "mods/sodium-extra.jar"
+
+[[files]]
+file = "mods/sodium.jar"
