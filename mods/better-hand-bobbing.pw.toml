@@ -1,0 +1,13 @@
+name = "BetterHandBobbing"
+filename = "betterhandbobbing-1.8.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2FJYrSBD/versions/8m5W2jPl/betterhandbobbing-1.8.0.jar"
+hash-format = "sha512"
+hash = "6fe574d3864d59b38df9aa71e6809fc6148b8e1d102d2f683eb634cb434f842c780b0f385506f226ae8dc0d4b61d7965a145d3e9f1d64da5b7a20b60621d865d"
+
+[update]
+[update.modrinth]
+mod-id = "2FJYrSBD"
+version = "8m5W2jPl"

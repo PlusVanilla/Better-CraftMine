@@ -4,7 +4,15 @@ hash-format = "sha256"
 file = "mods/appleskin.jar"
 
 [[files]]
+file = "mods/better-hand-bobbing.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
@@ -12,6 +20,10 @@ file = "mods/craftmine-fixes.jar"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
 metafile = true
 
 [[files]]
@@ -29,3 +41,7 @@ file = "mods/sodium-extra.jar"
 
 [[files]]
 file = "mods/sodium.jar"
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+metafile = true
