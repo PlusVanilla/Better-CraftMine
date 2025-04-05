@@ -6,3 +6,10 @@ metafile = true
 
 [[files]]
 file = "mods/craftmine-fixes.jar"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nochatreports.jar"
