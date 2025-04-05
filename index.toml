@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.jar"
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
@@ -12,4 +15,11 @@ file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/nochatreports.jar"
+
+[[files]]
+file = "mods/player-relocks.jar"

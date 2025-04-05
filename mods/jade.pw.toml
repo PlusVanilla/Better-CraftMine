@@ -1,0 +1,16 @@
+name = "Jade 🔍"
+filename = "Jade-25w14craftmine-Fabric-18.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/cJIrDrbJ/Jade-25w14craftmine-Fabric-18.0.3.jar"
+hash-format = "sha512"
+hash = "bdd3444f7d15d3b8f0ea6476f1f1052d5caf72c72dd7689334cc710444fb9bbd73085daa5390b2027620737b873647619704adc4c35db795bfa9c1bada1823a4"
+
+[update]
+[update.modrinth]
+mod-id = "nvQzSEkH"
+version = "cJIrDrbJ"
+[update.curseforge]
+file-id = 6383379
+project-id = 324717
