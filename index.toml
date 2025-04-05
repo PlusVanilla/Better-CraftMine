@@ -16,6 +16,10 @@ file = "mods/chat-heads.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/craftmine-fixes.jar"
 
 [[files]]
@@ -41,6 +45,10 @@ file = "mods/sodium-extra.jar"
 
 [[files]]
 file = "mods/sodium.jar"
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
