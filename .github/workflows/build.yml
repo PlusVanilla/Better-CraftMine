@@ -8,10 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
-      - name: Get latest release version
-        id: latest-release
-        uses: fangqiuming/latest-release-version@v1.1.1
+        with:
+          fetch-depth: 0
 
       - name: Install Packwiz
         run: |
@@ -50,13 +48,13 @@ jobs:
         uses: RubixDev/modrinth-upload@v1
         with:
           token: ${{ secrets.MODRINTH_TOKEN }}
-          file_path: Better CraftMine-25.14.0.mrpack
+          file_path: Better CraftMine-25.14.1.mrpack
           name: ${{ env.VERSION }}
           version: ${{ env.VERSION }}
           changelog: |
             _This version is created automatically by GitHub Action._
 
-            [`${{ env.VERSION }}`](https://github.com/REVanillaW/REVanilla/commit/${{ github.sha }}) ${{ github.event.commits[0].message }}
+            [`${{ env.VERSION }}`](https://github.com/PlusVanilla/Better-CraftMine/commit/${{ github.sha }}) ${{ github.event.commits[0].message }}
           game_versions: 25w14craftmine
           release_type: alpha
           loaders: fabric

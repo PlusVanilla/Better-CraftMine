@@ -1,7 +1,7 @@
 name = "Better CraftMine"
 author = "LittleChest"
-version = "25.14.0"
-description = "25w14craftmine, but bug fixes!"
+version = "25.14.1"
+description = "25w14craftmine, but bug fixes and QoL features!"
 pack-format = "packwiz:1.1.0"
 
 [index]
