@@ -23,11 +23,19 @@ metafile = true
 file = "mods/craftmine-fixes.jar"
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
