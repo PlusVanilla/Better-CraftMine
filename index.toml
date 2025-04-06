@@ -20,6 +20,10 @@ file = "mods/chatanimation.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/craftmine-fixes.jar"
 
 [[files]]
@@ -39,7 +43,15 @@ file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/nochatreports.jar"
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/player-relocks.jar"
