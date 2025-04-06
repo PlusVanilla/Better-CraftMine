@@ -35,6 +35,9 @@ file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseloadingscreen.jar"
+
+[[files]]
 file = "mods/jade.pw.toml"
 metafile = true
 
