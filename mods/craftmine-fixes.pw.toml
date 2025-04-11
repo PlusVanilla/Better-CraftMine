@@ -1,0 +1,13 @@
+name = "25w14craftmine Bug Fixes"
+filename = "craftmine-fixes-0.16.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/lbZmE2uR/versions/oUYx2Djq/craftmine-fixes-0.16.jar"
+hash-format = "sha512"
+hash = "92b2e05f1eee662333050acc75ee4b1120399b5fd60a3d3e1ae5069dd7ef7b2fab0c947776b07e28fc088f62d05eb5d77ba6e9d87c8a3310c3ad9155dfefe377"
+
+[update]
+[update.modrinth]
+mod-id = "lbZmE2uR"
+version = "oUYx2Djq"

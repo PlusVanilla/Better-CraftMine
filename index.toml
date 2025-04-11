@@ -24,7 +24,8 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/craftmine-fixes.jar"
+file = "mods/craftmine-fixes.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -57,7 +58,8 @@ file = "mods/placeholder-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/player-relocks.jar"
+file = "mods/player-relocks.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/sodium-extra.jar"

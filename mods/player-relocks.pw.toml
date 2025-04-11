@@ -1,0 +1,13 @@
+name = "Player Relocks"
+filename = "PlayerRelocks-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EW3K3grP/versions/icOKeh8f/PlayerRelocks-0.0.3.jar"
+hash-format = "sha512"
+hash = "40e12ad10b01d4b2ce67835e1b59fcb21bb2c9f42d3ee8740328dbea167eaa8a8249f1e1b729bf0dd7dd3d5e47addeb4fa9af50ef7eff2ff7e2503350cabdbfe"
+
+[update]
+[update.modrinth]
+mod-id = "EW3K3grP"
+version = "icOKeh8f"
